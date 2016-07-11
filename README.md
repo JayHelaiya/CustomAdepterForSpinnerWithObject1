@@ -1,0 +1,1 @@
+# CustomAdepterForSpinnerWithObject1
